@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Office Markdown App</string>
+    <string name="app_description">A powerful markdown editor with WYSIWYG support, local storage, and optional cloud integration (OneDrive and Google Drive)</string>
+    
+    <!-- Main Activity -->
+    <string name="new_document">New Document</string>
+    <string name="open_document">Open Document</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Editor Activity -->
+    <string name="raw_mode">Raw</string>
+    <string name="preview_mode">Preview</string>
+    <string name="split_mode">Split</string>
+    <string name="editor_hint">Enter your markdown here...</string>
+    
+    <!-- Menu Items -->
+    <string name="save_document">Save</string>
+    <string name="save_as">Save As...</string>
+    <string name="cloud_sync">Cloud Sync</string>
+    
+    <!-- Features -->
+    <string name="features_title">Features</string>
+    <string name="feature_markdown">✓ Raw markdown editor with syntax highlighting</string>
+    <string name="feature_preview">✓ Live preview mode</string>
+    <string name="feature_wysiwyg">✓ WYSIWYG editing support</string>
+    <string name="feature_local">✓ Local file storage</string>
+    <string name="feature_onedrive">✓ Optional OneDrive integration</string>
+    <string name="feature_gdrive">✓ Optional Google Drive integration</string>
+</resources>
